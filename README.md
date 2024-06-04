@@ -10,6 +10,8 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"><br/>
     </div>
+    <br/>
+    <br/>
 </div>
 </div> 
 
