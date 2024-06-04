@@ -1,4 +1,7 @@
 # eunbin
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=transparent&text=eunbinChoi&fontColor=9DB1FA)
+</div>
 - 👋 Hi, I’m @silvercong07
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
