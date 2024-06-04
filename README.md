@@ -15,4 +15,3 @@
 
     <div align= "center">
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvercong07&layout=compact)](https://github.com/silvercong07/github-readme-stats)
-    </div>
