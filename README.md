@@ -1,9 +1,9 @@
 <div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7d2ff,100:66d9ff&height=120&text=eunbin&animation=&fontColor=70baff&fontSize=70" />
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
     <br/>
     <div align="center">👨‍💻Firmware Developer👨‍💻</div>
     <br/>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7d2ff,100:66d9ff&height=120&text=eunbin&animation=&fontColor=70baff&fontSize=70" />
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
