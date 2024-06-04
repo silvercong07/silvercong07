@@ -1,7 +1,5 @@
 # eunbin
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=transparent&text=eunbinChoi&fontColor=9DB1FA)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @silvercong07
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
