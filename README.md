@@ -8,7 +8,7 @@
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           </div>
     </div>
     </div>
