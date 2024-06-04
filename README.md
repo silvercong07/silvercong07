@@ -14,9 +14,6 @@
     </div> 
 
 <div align="center">
-
-
-  ![header](https://capsule-render.vercel.app/api?type=transparent&text=eunbin&fontColor=9DB1FA)
 </div>
 <hr/>
 <br/>
