@@ -1,8 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7d2ff,100:66d9ff&height=120&text=eunbin&animation=&fontColor=70baff&fontSize=70" />
     <br/>
-    <hr/>
-    <br/>
     <div align="center">👨‍💻Firmware Developer👨‍💻</div>
     <br/>
     <br/>
