@@ -14,6 +14,5 @@
     </div> 
 
     
-<div align="center">
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvercong07&layout=compact)](https://github.com/downpour07/github-readme-stats)
-</div>
