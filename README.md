@@ -14,3 +14,22 @@
     </div> 
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvercong07&layout=compact)](https://github.com/silvercong07/github-readme-stats)
+
+<div align="center">
+
+
+  ![header](https://capsule-render.vercel.app/api?type=transparent&text=eunbin&fontColor=9DB1FA)
+</div>
+<hr/>
+<br/>
+<div align="center">👨‍💻Firmware Developer👨‍💻</div>
+<br/>
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvercong07&layout=compact)](https://github.com/silvercong07/github-readme-stats)
+</div>
+<br/>
+<div align="center">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvercong07&show_icons=true&theme=radical)
+</div>
